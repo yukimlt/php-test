@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>0723 changed</p>'; ?>
+ <?php echo '<p>0731 changed あと13営業日！</p>'; ?>
  </body>
 </html>
