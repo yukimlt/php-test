@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Today is 8/2, 11 Days until X-DAY !!</p>'; ?>
+ <?php echo '<p>Today is 8/3, 10 business Days until X-DAY !!</p>'; ?>
  </body>
 </html>
